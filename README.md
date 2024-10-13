@@ -1,5 +1,5 @@
 ### Stas Litvinov 👋
-- 🔭 Currently working on an iOS app for posting long texts to social platforms like Threads and X. It splits text into smaller chunks, adds numbering and continuation markers, and allows users to customize the split before posting. Simplifies sharing extended thoughts across multiple posts.
+- 🔭 Currently working on an iOS app for posting long texts to social platforms like Threads and X. It splits text into smaller chunks, adds numbering and continuation markers, and allows users to customize the split before posting. Simplifies sharing extended thoughts across multiple posts. Documenting the process [here](https:/t.me/todasyopet). Warning: Russian language with professional jargon ¯\_(ツ)_/¯
 - 📫 The best way to reach me is Telegram: [@stasw](https://t.me/stasw)
 
 <!--
