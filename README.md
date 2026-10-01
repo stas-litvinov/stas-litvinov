@@ -1,7 +1,18 @@
-### Stas Litvinov 👋
-🔭 Currently working on an iOS app for posting long texts to social platforms like Threads and X. It splits text into smaller chunks, adds numbering and continuation markers, and allows users to customize the split before posting. Simplifies sharing extended thoughts across multiple posts. Documenting the process [in my Telegram channel](https:/t.me/todasyopet). 
+### Stas Litvinov
 
-📫 The best way to reach me is via Telegram: [@stasw](https://t.me/stasw)
+Senior iOS and software engineer with a background in software engineering from Carnegie Mellon University.
+
+Most of my professional work has been in iOS development, architecture, requirements, delivery processes, and software quality. More recently, I have been exploring how those engineering disciplines change when AI agents become part of the development process.
+
+Currently building:
+
+- **Archerly** — an iOS app for Olympic recurve archers to record and analyze training sessions.
+- **ArcheryForecast** — an interpretable forecasting tool that uses historical competition data to estimate qualification scores, placements, and realistic performance targets.
+- **Vocabite** — an experimental language-learning app built around vocabulary captured from real-world speech.
+
+I’m particularly interested in agentic software development, software architecture, developer tooling, and building reliable processes around AI-assisted engineering.
+
+📫 Telegram: [@stasw](https://t.me/stasw)
 
 <!--
 **stas-litvinov/stas-litvinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
