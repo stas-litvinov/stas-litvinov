@@ -23,7 +23,7 @@ Most of my professional work has been in iOS development, architecture, requirem
 
 I’m particularly interested in agentic software development, software architecture, developer tooling, and building reliable processes around AI-assisted engineering.
 
-I enjoy turning product ideas into clear, testable requirements: understanding user goals, mapping workflows, exploring edge cases and constraints, and defining acceptance criteria before implementation. Archerly is one place where I bring that approach to a domain I care about.
+I enjoy turning product ideas into clear, testable requirements: understanding user goals, mapping workflows, exploring edge cases and constraints, and defining acceptance criteria before implementation. Archerly is one place where I bring that approach to a domain I care about. As an archer, I know that bright sunlight and low light are both common shooting conditions. That experience shapes how I design Archerly’s data-entry screen: the goal is to make entering scores equally easy in either setting, with clear controls that help prevent input errors.
 
 For me, software quality starts with those requirements and continues through architecture, testing, and delivery. I’m interested in making behavior verifiable, catching regressions, and keeping software maintainable as it evolves—including when AI agents contribute to the code.
 
