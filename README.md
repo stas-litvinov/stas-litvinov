@@ -19,14 +19,13 @@ Most of my professional work has been in iOS development, architecture, requirem
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![iOS Development](https://img.shields.io/badge/iOS_Development-007AFF?style=flat)
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-475569?style=flat)
-![Requirements Engineering](https://img.shields.io/badge/Requirements_Engineering-475569?style=flat)
-![Software Quality](https://img.shields.io/badge/Software_Quality-475569?style=flat)
-![Delivery Processes](https://img.shields.io/badge/Delivery_Processes-475569?style=flat)
 ![AI-Assisted Engineering](https://img.shields.io/badge/AI--Assisted_Engineering-7C3AED?style=flat)
 
 I’m particularly interested in agentic software development, software architecture, developer tooling, and building reliable processes around AI-assisted engineering.
+
+I enjoy turning product ideas into clear, testable requirements: understanding user goals, mapping workflows, exploring edge cases and constraints, and defining acceptance criteria before implementation. Archerly is one place where I bring that approach to a domain I care about.
+
+For me, software quality starts with those requirements and continues through architecture, testing, and delivery. I’m interested in making behavior verifiable, catching regressions, and keeping software maintainable as it evolves—including when AI agents contribute to the code.
 
 ## Get in touch
 
