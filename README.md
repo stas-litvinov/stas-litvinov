@@ -18,7 +18,6 @@ Most of my professional work has been in iOS development, architecture, requirem
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ![AI-Assisted Engineering](https://img.shields.io/badge/AI--Assisted_Engineering-7C3AED?style=flat)
 
 I’m particularly interested in agentic software development, software architecture, developer tooling, and building reliable processes around AI-assisted engineering.
