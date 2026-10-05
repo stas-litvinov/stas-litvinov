@@ -27,6 +27,10 @@ I enjoy turning product ideas into clear, testable requirements: understanding u
 
 For me, software quality starts with those requirements and continues through architecture, testing, and delivery. I’m interested in making behavior verifiable, catching regressions, and keeping software maintainable as it evolves—including when AI agents contribute to the code.
 
+## Beyond software
+
+I practice Olympic recurve archery—a personal interest that also inspires Archerly and ArcheryForecast. You can find my [archer profile on the Serbian Archery Federation portal](https://demo.serbianarchery.com/takmicar.html?id=2066).
+
 ## Get in touch
 
 [![Telegram: @stasw](https://img.shields.io/badge/Telegram-%40stasw-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/stasw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/stanislavlitvinov/)
