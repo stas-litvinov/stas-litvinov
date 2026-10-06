@@ -8,10 +8,10 @@ Most of my professional work has been in iOS development, architecture, requirem
 
 ## Selected projects
 
-- **[Chunkify](https://apps.apple.com/kg/app/chunkify/id6737156116)** — a published iOS app that splits long texts into ready-to-share posts for Threads and X, with customizable chunk sizes, numbering, and continuation markers.
-- **[ArcheryForecast](https://github.com/stas-litvinov/ArcheryForecast)** — an interpretable forecasting tool that uses historical competition data to estimate qualification scores, placements, and realistic performance targets.
-- **Archerly** — an iOS app for Olympic recurve archers to record and analyze training sessions.
-- **Vocabite** — an experimental language-learning app built around vocabulary captured from real-world speech.
+- **[Chunkify](https://apps.apple.com/kg/app/chunkify/id6737156116)**: a published iOS app that splits long texts into ready-to-share posts for Threads and X, with customizable chunk sizes, numbering, and continuation markers.
+- **[ArcheryForecast](https://github.com/stas-litvinov/ArcheryForecast)**: an interpretable forecasting tool that uses historical competition data to estimate qualification scores, placements, and realistic performance targets.
+- **Archerly**: an iOS app for Olympic recurve archers to record and analyze training sessions.
+- **Vocabite**: an experimental language-learning app built around vocabulary captured from real-world speech.
 
 ## Skills & interests
 
@@ -22,13 +22,13 @@ Most of my professional work has been in iOS development, architecture, requirem
 
 I’m particularly interested in agentic software development, software architecture, developer tooling, and building reliable processes around AI-assisted engineering.
 
-I enjoy turning product ideas into clear, testable requirements: understanding user goals, mapping workflows, exploring edge cases and constraints, and defining acceptance criteria before implementation. Archerly is one place where I bring that approach to a domain I care about. I take a meticulous approach to requirements and interaction design, thinking through the conditions in which each screen will actually be used. For example, bright sunlight and low light are both common shooting conditions, so I treat visibility and accurate score entry in both as explicit requirements for Archerly—not just visual preferences. That means considering contrast, control sizes, and input feedback, and defining acceptance criteria for entering scores with the same ease and without mistakes in either setting.
+I enjoy turning product ideas into clear, testable requirements: understanding user goals, mapping workflows, exploring edge cases and constraints, and defining acceptance criteria before implementation. Archerly is one place where I bring that approach to a domain I am passionate about. I take a meticulous approach to requirements and interaction design, thinking through the conditions in which each screen will actually be used. For example, bright sunlight and low light are both common shooting conditions, so I treat visibility and accurate score entry in both as explicit requirements, not just visual preferences. That means considering contrast, control sizes, and input feedback, and defining acceptance criteria for entering scores with the same ease and without mistakes in either setting.
 
-For me, software quality starts with those requirements and continues through architecture, testing, and delivery. I’m interested in making behavior verifiable, catching regressions, and keeping software maintainable as it evolves—including when AI agents contribute to the code.
+For me, software quality starts with those requirements and continues through architecture, testing, and delivery. I’m interested in making behavior verifiable, catching regressions, and keeping software maintainable as it evolves, including when AI agents contribute to the code.
 
 ## Beyond software
 
-I practice Olympic recurve archery—a personal interest that also inspires Archerly and ArcheryForecast. You can find my [archer profile on the Serbian Archery Federation portal](https://demo.serbianarchery.com/takmicar.html?id=2066).
+I practice Olympic recurve archery — a personal interest that also inspires Archerly and ArcheryForecast. You can find my [archer profile on the Serbian Archery Federation portal](https://demo.serbianarchery.com/takmicar.html?id=2066).
 
 ## Get in touch
 
