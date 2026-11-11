@@ -28,7 +28,7 @@ For me, software quality starts with those requirements and continues through ar
 
 ## Beyond software
 
-I practice Olympic recurve archery — a personal interest that also inspires Archerly and ArcheryForecast. You can find my [archer profile on the Serbian Archery Federation portal](https://demo.serbianarchery.com/takmicar.html?id=2066).
+I practice Olympic recurve archery — a personal interest that also inspires Archerly and ArcheryForecast. You can find my [archer profile on the Serbian Archery Federation portal](https://serbianarchery.com/takmicar.html?id=2066).
 
 ## Get in touch
 
